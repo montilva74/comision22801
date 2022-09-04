@@ -2,6 +2,10 @@
     background-color: #1f1f1f;
     color: #f1eded;
 }
+.oscuro .barra{
+    background-color: #5d5959;
+    color: #f1eded;
+}
 .oscuro h2{
     background-color: #5d5959;
     color: #f1eded;
@@ -9,6 +13,9 @@
 .oscuro h3{
     background-color: #5d5959;
     color: #f1eded;
+}
+.barra{
+    background-color: rgb(60, 200, 228);
 }
 h2{
     background-color: rgb(60, 200, 228);

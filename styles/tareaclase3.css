@@ -1,0 +1,53 @@
+.oscuro{ 
+    background-color: #1f1f1f;
+    color: #f1eded;
+}
+.oscuro h2{
+    background-color: #5d5959;
+    color: #f1eded;
+}
+.oscuro .caja{
+    background-color: #5d5959;
+}
+.oscuro  .inputb{
+    background-color: #5d5959;
+    color: #f1eded;
+    border-color: #5d5959;
+}
+.oscuro .botonb{
+    background-color: #5d5959;
+    color: #f1eded;
+    border-color: #5d5959;
+}
+.naruto{
+    width: 75%;
+    position: relative;
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+.inputb{
+    border-color: rgb(60, 200, 228);
+}
+.botonb{
+    background-color: rgb(60, 200, 228);
+    color: #f1eded;
+    border-color: rgb(245, 121, 50);
+    font-size: 16px;
+}
+h2{
+    background-color: rgb(60, 200, 228);
+    margin-left: 30px;
+}
+ul {
+    list-style: none;
+    list-style-type: none;
+}
+.caja{
+    background-color:rgb(245, 121, 50);
+    color: #f1eded;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5%;
+
+}
